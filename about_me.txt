@@ -1,0 +1,4 @@
+Name: Hieng Dara
+Student ID: 2023240
+
+About me: I am a computer science student at AUPP learning GitHub and version control. This assignment helps me understand how to collaborate on coding projects. I'm excited to develop my programming skills and work on real-world applications.
